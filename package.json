@@ -15,10 +15,10 @@
     "@mui/material": "^7.3.7",
     "@react-google-maps/api": "^2.20.8",
     "autoprefixer": "^10.4.21",
-    "next": "15.3.3",
+    "next": "^16.1.2",
     "postcss": "^8.5.4",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
